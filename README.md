@@ -10,7 +10,7 @@ pip install pandas numpy matplotlib seaborn scipy click scikit-learn
 
 # Usage
 ```bash
-python CLI.py Quiz.csv --full
+python CLI.py Data.csv --full
 ```
 
 # Project Structure
@@ -18,7 +18,7 @@ python CLI.py Quiz.csv --full
     Analyzer.py         # Analysis engine (stats + ML)
     DataLoader.py       # Data loading and preprocessing
     Test.py             # Unit tests
-    Quiz.csv            # Sample dataset
+    Data.csv            # Sample dataset
 
 
 # Analysis Included:
