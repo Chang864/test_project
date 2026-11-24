@@ -1,4 +1,5 @@
 # test_project
+    This is a data analytics project, including data loading, data preprocessing, data analysis and modeling. 
 
 # Analyzer
     A tool used to process and analyze device drop test data, with statistical analysis and machine learning capabilities.
